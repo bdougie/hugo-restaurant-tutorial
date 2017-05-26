@@ -9,6 +9,7 @@
     "build": "gulp build",
     "build-preview": "gulp build-preview",
     "start": "gulp server",
+    "generate": "split-guide generate",
     "lint": "eslint src"
   },
   "author": "",
@@ -52,5 +53,8 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "split-guide": "3.0.0"
   }
 }
