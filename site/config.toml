@@ -10,18 +10,6 @@ title = "Tasty Licks"
     url  = "/food"
     weight = 1
 [[menu.main]]
-    name = "Drinks"
-    url  = "/drinks"
-    weight = 2
-[[menu.main]]
     name = "About"
     url  = "/about"
-    weight = 3
-[[menu.main]]
-    name = "Gallery"
-    url  = "/gallery"
-    weight = 4
-[[menu.main]]
-    name = "Make A Reservation"
-    url  = "/contact"
-    weight = 5
+    weight = 2
