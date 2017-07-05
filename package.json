@@ -54,7 +54,5 @@
     "webpack": "^1.13.1",
     "whatwg-fetch": "^1.0.0"
   },
-  "devDependencies": {
-    "split-guide": "3.0.0"
-  }
+  "devDependencies": {}
 }
